@@ -1,0 +1,84 @@
+{
+  "company": [
+    {
+      "id": 1,
+      "name": "Econet",
+      "email": "e@econent.co.zw",
+      "phone": "78900909",
+      "address": "granite road side 244",
+      "type": "domestic"
+    },
+    {
+      "id": 2,
+      "name": "TelOne",
+      "email": "tel@telone.co.zw",
+      "phone": "2468102",
+      "address": "corner jason moyo and rotten raw",
+      "type": "mnc"
+    },
+    {
+      "id": 3,
+      "name": "Telecel",
+      "email": "t@telecel.co.zw",
+      "phone": "123456789",
+      "address": "seke road 123",
+      "type": "mnc"
+    },
+    {
+      "id": 4,
+      "name": "mzaya",
+      "email": "mzaya@mzaya.co.zw",
+      "phone": "776477847",
+      "address": "16464 unit m",
+      "type": "domestic"
+    },
+    {
+      "id": 5,
+      "name": "mzaya",
+      "email": "mzaya@mzaya.co.zw",
+      "phone": "776477847",
+      "address": "16464 unit mj",
+      "type": "domestic"
+    },
+    {
+      "id": 6,
+      "name": "reactAndMaterialUICreateNotes",
+      "email": "vs@tmsm.co.zw",
+      "phone": "7764778",
+      "address": "5959 phase 3 checheche",
+      "type": "mnc"
+    },
+    {
+      "id": 7,
+      "name": "vehicleManagement",
+      "email": "manage@gmail.com",
+      "phone": "7176678",
+      "address": "1234 unit k",
+      "type": "mnc"
+    },
+    {
+      "id": 8,
+      "name": "mkwambo",
+      "email": "mkwamboliquirors@liquirors.co.zw",
+      "phone": "123456788",
+      "address": "unit l",
+      "type": "mnc"
+    },
+    {
+      "id": 9,
+      "name": "tm super",
+      "email": "stud@tmsm.co.zw",
+      "phone": "776464646",
+      "address": "56 msasa mutare road",
+      "type": "mnc"
+    },
+    {
+      "id": 0,
+      "name": "mzaya",
+      "email": "mzayawasekuru@mzaya.co.zw",
+      "phone": "0776477847",
+      "address": "16464 unit m",
+      "type": "domestic"
+    }
+  ]
+}
